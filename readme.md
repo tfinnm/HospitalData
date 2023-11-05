@@ -28,5 +28,5 @@ Version: 0.1.0
 Make a HTTP/REST request (GET) to `https://raw.githubusercontent.com/tfinnm/HospitalData/main/facilitydata.json` 
 
 ## Area Coverage:
-#### NY
+### NY
 Capital Region
